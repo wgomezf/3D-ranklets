@@ -8,4 +8,4 @@ The validation was performed on the public BreastDM dataset (https://github.com/
 
 Any use of our codes, please cite:
 
-Wilfrido Gomez-Flores, Elisa Scalco, and Fernando Arce, "A 3-D Ranklet-based Texture Analysis Approach to Classify Breast Tumors in DCE-MRI Volumes", Biomedical Signal Processing & Control, 2024 (in revision).
+Wilfrido Gomez-Flores, Elisa Scalco, and Fernando Arce, "A 3-D Ranklet-based Texture Analysis Approach to Classify Breast Tumors in DCE-MRI Volumes", Biomedical Signal Processing & Control, vol. 110, p. 108085, 2025. https://doi.org/10.1016/j.bspc.2025.108085
